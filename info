@@ -1,0 +1,9 @@
+utvärdera:
+- höjd (0.1 - 6.0 meter)
+- separation (0.1 - 6.0 meter)
+- balansering (10 - 10,000 ohm)
+
+för varje konfig, mät matningsimpedans vid alla band av intresse
+klura ut lämplig zin (balun eller balun + spole)
+betrakta reflekterad effekt som förlorad
+sök efter konfiguration som maximerar minimum utstrålad effekt över alla band
